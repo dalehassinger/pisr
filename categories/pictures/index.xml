@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pictures on Palmyra International Shotgun Range</title>
-    <link>pisr/categories/pictures/</link>
+    <link>/categories/pictures/</link>
     <description>Recent content in Pictures on Palmyra International Shotgun Range</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 01 Aug 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="pisr/categories/pictures/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/categories/pictures/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Kitchen/Baths</title>
-      <link>pisr/events/shoot/</link>
+      <link>/events/shoot/</link>
       <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>pisr/events/shoot/</guid>
+      <guid>/events/shoot/</guid>
       <description>Shoot: Dog Days of Summer    20140618 190320
       20140618 190342
       20140618 190410
@@ -30,10 +30,10 @@
     
     <item>
       <title>Thursday Nights</title>
-      <link>pisr/blog/thursdays/</link>
+      <link>/blog/thursdays/</link>
       <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>pisr/blog/thursdays/</guid>
+      <guid>/blog/thursdays/</guid>
       <description>Every Thursday night you can come to the Shotgun Range and Pratice your Bunker Trap skills or shoot Bunker for the first time. Always a good time at the range&amp;hellip;
    Img 001
       Img 002

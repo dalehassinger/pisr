@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blog on Palmyra International Shotgun Range</title>
-    <link>pisr/blog/</link>
+    <link>/blog/</link>
     <description>Recent content in Blog on Palmyra International Shotgun Range</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 01 Aug 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="pisr/blog/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/blog/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Thursday Nights</title>
-      <link>pisr/blog/thursdays/</link>
+      <link>/blog/thursdays/</link>
       <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>pisr/blog/thursdays/</guid>
+      <guid>/blog/thursdays/</guid>
       <description>Every Thursday night you can come to the Shotgun Range and Pratice your Bunker Trap skills or shoot Bunker for the first time. Always a good time at the range&amp;hellip;
    Img 001
       Img 002
@@ -28,10 +28,10 @@
     
     <item>
       <title>Automated Clay Thrower</title>
-      <link>pisr/blog/clay-thrower/</link>
+      <link>/blog/clay-thrower/</link>
       <pubDate>Sun, 19 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>pisr/blog/clay-thrower/</guid>
+      <guid>/blog/clay-thrower/</guid>
       <description>Raspberry PI Powered Clay Thrower Link to my Raspberry PI powered Clay Thrower. The first project I ever did with a PI. My first project using Python and PHP.
   </description>
     </item>
