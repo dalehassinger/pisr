@@ -6,125 +6,26 @@
     <description>Recent content in Categories on www.vCrocs.info</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 17 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 01 Aug 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.vcrocs.info/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>vRealize Operations</title>
-      <link>https://www.vcrocs.info/categories/vrealize-operations/</link>
-      <pubDate>Fri, 17 Jul 2020 00:00:00 +0000</pubDate>
+      <title>Fun</title>
+      <link>https://www.vcrocs.info/categories/fun/</link>
+      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://www.vcrocs.info/categories/vrealize-operations/</guid>
+      <guid>https://www.vcrocs.info/categories/fun/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Home LAb</title>
-      <link>https://www.vcrocs.info/categories/home-lab/</link>
-      <pubDate>Sat, 11 Jul 2020 00:00:00 +0000</pubDate>
+      <title>Pictures</title>
+      <link>https://www.vcrocs.info/categories/pictures/</link>
+      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://www.vcrocs.info/categories/home-lab/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>WFH</title>
-      <link>https://www.vcrocs.info/categories/wfh/</link>
-      <pubDate>Sat, 11 Jul 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.vcrocs.info/categories/wfh/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Dan Grove</title>
-      <link>https://www.vcrocs.info/categories/dan-grove/</link>
-      <pubDate>Sun, 14 Jun 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.vcrocs.info/categories/dan-grove/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Infoblox</title>
-      <link>https://www.vcrocs.info/categories/infoblox/</link>
-      <pubDate>Sun, 14 Jun 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.vcrocs.info/categories/infoblox/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>vRA</title>
-      <link>https://www.vcrocs.info/categories/vra/</link>
-      <pubDate>Sun, 14 Jun 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.vcrocs.info/categories/vra/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>podcast</title>
-      <link>https://www.vcrocs.info/categories/podcast/</link>
-      <pubDate>Fri, 29 May 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.vcrocs.info/categories/podcast/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>PowerShell</title>
-      <link>https://www.vcrocs.info/categories/powershell/</link>
-      <pubDate>Fri, 29 May 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.vcrocs.info/categories/powershell/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Coffee Talk</title>
-      <link>https://www.vcrocs.info/categories/coffee-talk/</link>
-      <pubDate>Thu, 14 May 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.vcrocs.info/categories/coffee-talk/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>ESXi</title>
-      <link>https://www.vcrocs.info/categories/esxi/</link>
-      <pubDate>Thu, 14 May 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.vcrocs.info/categories/esxi/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Log Insight</title>
-      <link>https://www.vcrocs.info/categories/log-insight/</link>
-      <pubDate>Thu, 14 May 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.vcrocs.info/categories/log-insight/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>PowerCLI</title>
-      <link>https://www.vcrocs.info/categories/powercli/</link>
-      <pubDate>Fri, 08 May 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.vcrocs.info/categories/powercli/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>NSX</title>
-      <link>https://www.vcrocs.info/categories/nsx/</link>
-      <pubDate>Thu, 30 Apr 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.vcrocs.info/categories/nsx/</guid>
+      <guid>https://www.vcrocs.info/categories/pictures/</guid>
       <description></description>
     </item>
     
@@ -138,20 +39,11 @@
     </item>
     
     <item>
-      <title>Raspberry Pi</title>
-      <link>https://www.vcrocs.info/categories/raspberry-pi/</link>
+      <title>Clay Thrower</title>
+      <link>https://www.vcrocs.info/categories/clay-thrower/</link>
       <pubDate>Sun, 19 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://www.vcrocs.info/categories/raspberry-pi/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>RVTools</title>
-      <link>https://www.vcrocs.info/categories/rvtools/</link>
-      <pubDate>Sun, 19 Apr 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.vcrocs.info/categories/rvtools/</guid>
+      <guid>https://www.vcrocs.info/categories/clay-thrower/</guid>
       <description></description>
     </item>
     

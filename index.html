@@ -21,8 +21,8 @@
         "accountablePerson" : "",
         "copyrightHolder" : "",
         "copyrightYear" : "2020",
-        "datePublished": "2020-07-17 00:00:00 \u002b0000 UTC",
-        "dateModified" : "2020-07-17 00:00:00 \u002b0000 UTC",
+        "datePublished": "2020-08-01 00:00:00 \u002b0000 UTC",
+        "dateModified" : "2020-08-01 00:00:00 \u002b0000 UTC",
         "url" : "https:\/\/www.vcrocs.info\/",
         "wordCount" : "0",
         "keywords" : [ "Blog" ]
@@ -56,7 +56,7 @@
 <meta property="og:description" content="vexpert, PowerShell, PowerCLI, VMware, vRealize Automation, vRA, NSX, RVTools, Automation, Hugo, Raspberry PI, Log Insight, vRealize Operations, vrops, Infrastucture as code" />
 <meta property="og:type" content="website" />
 <meta property="og:url" content="https://www.vcrocs.info/" />
-<meta property="og:updated_time" content="2020-07-17T00:00:00+00:00" />
+<meta property="og:updated_time" content="2020-08-01T00:00:00+00:00" />
 
         <meta property="og:image" content="https://www.vcrocs.info//images/logo.png">
         <meta property="og:image:type" content="image/png">
@@ -264,11 +264,11 @@ if (!doNotTrack) {
                 
                         <article class="mini-post">
                             <header>
-                                <h3><a href="https://www.vcrocs.info/blog/text-display-widget/">vRealize Operations - Dashboards</a></h3>
+                                <h3><a href="https://www.vcrocs.info/blog/thursdays/">Thursday Nights</a></h3>
                                 
                                 <time class="published" datetime=
-                                    '2020-07-17'>
-                                    July 17, 2020</time>
+                                    '2020-08-01'>
+                                    August 1, 2020</time>
                             </header>
                             
 
@@ -276,11 +276,11 @@ if (!doNotTrack) {
                 
                         <article class="mini-post">
                             <header>
-                                <h3><a href="https://www.vcrocs.info/blog/standup-desk/">Smart Desk and Homelab.</a></h3>
+                                <h3><a href="https://www.vcrocs.info/blog/hugo/">Hugo</a></h3>
                                 
                                 <time class="published" datetime=
-                                    '2020-07-11'>
-                                    July 11, 2020</time>
+                                    '2020-04-26'>
+                                    April 26, 2020</time>
                             </header>
                             
 
@@ -288,47 +288,17 @@ if (!doNotTrack) {
                 
                         <article class="mini-post">
                             <header>
-                                <h3><a href="https://www.vcrocs.info/blog/infoblox-01/">Infoblox 1.1 plugin for vRA 8.1</a></h3>
+                                <h3><a href="https://www.vcrocs.info/blog/clay-thrower/">Automated Clay Thrower</a></h3>
                                 
                                 <time class="published" datetime=
-                                    '2020-06-14'>
-                                    June 14, 2020</time>
-                            </header>
-                            
-
-                        </article>
-                
-                        <article class="mini-post">
-                            <header>
-                                <h3><a href="https://www.vcrocs.info/blog/it-reality/">What is vRealize Automation - Episode 21</a></h3>
-                                
-                                <time class="published" datetime=
-                                    '2020-05-29'>
-                                    May 29, 2020</time>
-                            </header>
-                            
-
-                        </article>
-                
-                        <article class="mini-post">
-                            <header>
-                                <h3><a href="https://www.vcrocs.info/blog/vra81-abx-ps/">vRealize Automation 8.1 - PowerShell ABX</a></h3>
-                                
-                                <time class="published" datetime=
-                                    '2020-05-17'>
-                                    May 17, 2020</time>
+                                    '2020-04-19'>
+                                    April 19, 2020</time>
                             </header>
                             
 
                         </article>
                 
 
-                
-                    <a href=
-                        
-                            /blog/
-                        
-                        class="button">View more posts</a>
                 
             </div>
         </section>
@@ -344,21 +314,21 @@ if (!doNotTrack) {
   <header>
     <div class="title">
         
-            <h2><a href="https://www.vcrocs.info/blog/text-display-widget/">vRealize Operations - Dashboards</a></h2>
+            <h2><a href="https://www.vcrocs.info/blog/thursdays/">Thursday Nights</a></h2>
         
         
-            <p>Text Display Widget - More Powerful than just displaying text on a Dashboard...</p>
+            <p>Great Group of Shooters</p>
         
     </div>
     <div class="meta">
         
 
         <time class="published"
-            datetime='2020-07-17'>
-            July 17, 2020</time>
+            datetime='2020-08-01'>
+            August 1, 2020</time>
         <span class="author">Dale Hassinger</span>
         
-            <p>3 minute read</p>
+            <p>1 minute read</p>
         
         
     </div>
@@ -370,25 +340,8 @@ if (!doNotTrack) {
   
 
   <div id="content">
-    <p>I was recently reviewing some sample custom vRealize Operations Dashboards and I seen where some of the Dashboards had custom text and images.  I reviewed how they included the text and images and in some of the sample Dashboards they used the “Text Display” Widget and used a url for the content. They would display images saved on a web server. I thought this was interesting and started reviewing what else could be displayed by using a url with the &ldquo;Text Display&rdquo; Widget.</p>
-<p>The first thought I had was to display the weather for both the data center locations where I work.  This could be used with a NOC type Dashboard.  I looked online for a weather widget site and got the code to display the weather for the specific locations. If you go to Administration/Configuration/Metric Configurations/TxtWidgetContent you can create html files to save the widget code. See examples in images below. You can display any Widget data from any web site that provides widgets using the &ldquo;Text Display&rdquo; Widget.</p>
-<p>After I successfully added weather widgets I wanted to get more serious and show data from a SQL Database. I use a SQL database to store data from some vRealize Automation Day 2 BluePrints that I created. Some example BluePrints where I store data in a SQL DB are Server Builds and Server Decomissions. I created a web page that displayed the SQL Data and added another “Text Display” widget to the Dashboard.  I used the url of the web page and assigned it to the widget and now I am also able to show SQL Data on a Dashboard.</p>
-<p>The reason I wanted to show Weather and SQL data is to use vRealize Operations Dashboards as the “Single Pane of Glass” for all monitoring. I have never seen a demo from VMware to use the “Text Display” Widget this way but I think this is awesome. This could completely change the way I use vRealize Operations Dashboards. There are not always vRealize Operations Management Packs available and this provides a cool way to show any data on a Dashboard.  The data will be for reference only but it does allow the &ldquo;Single Pane of Glass&rdquo;.</p>
-<h4 id="---vrealize-operations-dashboard">&mdash;vRealize Operations Dashboard:</h4>
-<p><strong><img src="https://www.vcrocs.info/images/vrops01-1.png" alt=""></strong></p>
-<p>Here is a closeup of the Dashboard so you can see the details.</p>
-<p><strong><img src="https://www.vcrocs.info/images/vrops01-2.png" alt=""></strong></p>
-<h4 id="---widget-code">&mdash;Widget Code:</h4>
-<p>Administration/Configuration/Metric Configurations/TxtWidgetContent</p>
-<p><strong><img src="https://www.vcrocs.info/images/vrops02-1.png" alt=""></strong></p>
-<p>Here is a closeup. Create a html file and paste the Widget Code.</p>
-<p><strong><img src="https://www.vcrocs.info/images/vrops02-2.png" alt=""></strong></p>
-<p>Select the html file created to show the widget data</p>
-<p><strong><img src="https://www.vcrocs.info/images/vrops04.png" alt=""></strong></p>
-<h4 id="---url-page">&mdash;url Page:</h4>
-<p><strong><img src="https://www.vcrocs.info/images/vrops03.png" alt=""></strong></p>
-<p>The url web page could be a static or dynamic page. Use whatever works best for you.  I think this opens up so many possibilities of what you can display on a Custom Dashboard. If you want to take it a step further you could publish the Custom vRealize Operations Dashboard with Workspace One and provide the data to anyone in your organization even if they are not a vRealize Operations user.  Cool Shit!</p>
-<p>The &ldquo;Text Display&rdquo; Widget should be renamed to the &ldquo;Cool Shit&rdquo; Widget!</p>
+    <h4 id="every-thursday-night-you-can-come-to-the-shotgun-range-and-pratice-your-bunker-trap-skills-or-shoot-bunker-for-the-first-time">Every Thursday night you can come to the Shotgun Range and Pratice your Bunker Trap skills or shoot Bunker for the first time.</h4>
+<p>Always a good time at the range&hellip;</p>
 
   </div>
 
@@ -402,7 +355,10 @@ if (!doNotTrack) {
                 <i class="fa fa-folder"></i>
                 
                 
-                <li><a class="article-category-link" href="https://www.vcrocs.info/categories/vrealize-operations">vRealize Operations</a></li>
+                <li><a class="article-category-link" href="https://www.vcrocs.info/categories/pictures">Pictures</a></li>
+                
+                
+                <li><a class="article-category-link" href="https://www.vcrocs.info/categories/fun">Fun</a></li>
                 
             
         
@@ -445,8 +401,8 @@ if (!doNotTrack) {
 
 <ul class="actions pagination">
     
-        <li><a href="https://www.vcrocs.info/blog/standup-desk/"
-                class="button big previous">Smart Desk and Homelab.</a></li>
+        <li><a href="https://www.vcrocs.info/blog/hugo/"
+                class="button big previous">Hugo</a></li>
     
 
     
@@ -465,7 +421,7 @@ if (!doNotTrack) {
 
 
 <li>
-  <a href="//twitter.com/share?url=https%3a%2f%2fwww.vcrocs.info%2fblog%2ftext-display-widget%2f&amp;text=vRealize%20Operations%20-%20Dashboards&amp;via=DaleHassinger" target="_blank" class="share-btn twitter">
+  <a href="//twitter.com/share?url=https%3a%2f%2fwww.vcrocs.info%2fblog%2fthursdays%2f&amp;text=Thursday%20Nights&amp;via=DaleHassinger" target="_blank" class="share-btn twitter">
     <i class="fa fa-twitter"></i>
     <p>Twitter</p>
     </a>
@@ -475,7 +431,7 @@ if (!doNotTrack) {
 
 
 <li>
-  <a href="//plus.google.com/share?url=https%3a%2f%2fwww.vcrocs.info%2fblog%2ftext-display-widget%2f" target="_blank" class="share-btn google-plus">
+  <a href="//plus.google.com/share?url=https%3a%2f%2fwww.vcrocs.info%2fblog%2fthursdays%2f" target="_blank" class="share-btn google-plus">
     <i class="fa fa-google-plus"></i>
     <p>Google+</p>
   </a>
@@ -486,7 +442,7 @@ if (!doNotTrack) {
 
 
 <li>
-  <a href="//www.facebook.com/sharer/sharer.php?u=https%3a%2f%2fwww.vcrocs.info%2fblog%2ftext-display-widget%2f" target="_blank" class="share-btn facebook">
+  <a href="//www.facebook.com/sharer/sharer.php?u=https%3a%2f%2fwww.vcrocs.info%2fblog%2fthursdays%2f" target="_blank" class="share-btn facebook">
     <i class="fa fa-facebook"></i>
     <p>Facebook</p>
     </a>
@@ -496,7 +452,7 @@ if (!doNotTrack) {
 
 
 <li>
-  <a href="//reddit.com/submit?url=https%3a%2f%2fwww.vcrocs.info%2fblog%2ftext-display-widget%2f&amp;title=vRealize%20Operations%20-%20Dashboards" target="_blank" class="share-btn reddit">
+  <a href="//reddit.com/submit?url=https%3a%2f%2fwww.vcrocs.info%2fblog%2fthursdays%2f&amp;title=Thursday%20Nights" target="_blank" class="share-btn reddit">
     <i class="fa fa-reddit-alien"></i>
     <p>Reddit</p>
   </a>
@@ -506,7 +462,7 @@ if (!doNotTrack) {
 
 
 <li>
-  <a href="//www.linkedin.com/shareArticle?url=https%3a%2f%2fwww.vcrocs.info%2fblog%2ftext-display-widget%2f&amp;title=vRealize%20Operations%20-%20Dashboards" target="_blank" class="share-btn linkedin">
+  <a href="//www.linkedin.com/shareArticle?url=https%3a%2f%2fwww.vcrocs.info%2fblog%2fthursdays%2f&amp;title=Thursday%20Nights" target="_blank" class="share-btn linkedin">
       <i class="fa fa-linkedin"></i>
       <p>LinkedIn</p>
     </a>
@@ -516,7 +472,7 @@ if (!doNotTrack) {
 
 
 <li>
-  <a href="//www.stumbleupon.com/submit?url=https%3a%2f%2fwww.vcrocs.info%2fblog%2ftext-display-widget%2f&amp;title=vRealize%20Operations%20-%20Dashboards" target="_blank" class="share-btn stumbleupon">
+  <a href="//www.stumbleupon.com/submit?url=https%3a%2f%2fwww.vcrocs.info%2fblog%2fthursdays%2f&amp;title=Thursday%20Nights" target="_blank" class="share-btn stumbleupon">
     <i class="fa fa-stumbleupon"></i>
     <p>StumbleUpon</p>
   </a>
@@ -526,7 +482,7 @@ if (!doNotTrack) {
 
 
 <li>
-  <a href="//www.pinterest.com/pin/create/button/?url=https%3a%2f%2fwww.vcrocs.info%2fblog%2ftext-display-widget%2f&amp;description=vRealize%20Operations%20-%20Dashboards" target="_blank" class="share-btn pinterest">
+  <a href="//www.pinterest.com/pin/create/button/?url=https%3a%2f%2fwww.vcrocs.info%2fblog%2fthursdays%2f&amp;description=Thursday%20Nights" target="_blank" class="share-btn pinterest">
     <i class="fa fa-pinterest-p"></i>
     <p>Pinterest</p>
   </a>
@@ -536,7 +492,7 @@ if (!doNotTrack) {
 
 
 <li>
-  <a href="mailto:?subject=Check out this post by Dale%20Hassinger&amp;body=https%3a%2f%2fwww.vcrocs.info%2fblog%2ftext-display-widget%2f" target="_blank" class="share-btn email">
+  <a href="mailto:?subject=Check out this post by Dale%20Hassinger&amp;body=https%3a%2f%2fwww.vcrocs.info%2fblog%2fthursdays%2f" target="_blank" class="share-btn email">
     <i class="fa fa-envelope"></i>
     <p>Email</p>
   </a>
@@ -685,11 +641,11 @@ if (!doNotTrack) {
           <article class="mini-post">
             <header>
               <h3>
-                <a href="https://www.vcrocs.info/blog/text-display-widget/">vRealize Operations - Dashboards</a>
+                <a href="https://www.vcrocs.info/blog/thursdays/">Thursday Nights</a>
               </h3>
               
-              <time class="published" datetime='2020-07-17'>
-                July 17, 2020
+              <time class="published" datetime='2020-08-01'>
+                August 1, 2020
               </time>
             </header>
             
@@ -699,11 +655,11 @@ if (!doNotTrack) {
           <article class="mini-post">
             <header>
               <h3>
-                <a href="https://www.vcrocs.info/blog/standup-desk/">Smart Desk and Homelab.</a>
+                <a href="https://www.vcrocs.info/blog/hugo/">Hugo</a>
               </h3>
               
-              <time class="published" datetime='2020-07-11'>
-                July 11, 2020
+              <time class="published" datetime='2020-04-26'>
+                April 26, 2020
               </time>
             </header>
             
@@ -713,39 +669,11 @@ if (!doNotTrack) {
           <article class="mini-post">
             <header>
               <h3>
-                <a href="https://www.vcrocs.info/blog/infoblox-01/">Infoblox 1.1 plugin for vRA 8.1</a>
+                <a href="https://www.vcrocs.info/blog/clay-thrower/">Automated Clay Thrower</a>
               </h3>
               
-              <time class="published" datetime='2020-06-14'>
-                June 14, 2020
-              </time>
-            </header>
-            
-
-          </article>
-        
-          <article class="mini-post">
-            <header>
-              <h3>
-                <a href="https://www.vcrocs.info/blog/it-reality/">What is vRealize Automation - Episode 21</a>
-              </h3>
-              
-              <time class="published" datetime='2020-05-29'>
-                May 29, 2020
-              </time>
-            </header>
-            
-
-          </article>
-        
-          <article class="mini-post">
-            <header>
-              <h3>
-                <a href="https://www.vcrocs.info/blog/vra81-abx-ps/">vRealize Automation 8.1 - PowerShell ABX</a>
-              </h3>
-              
-              <time class="published" datetime='2020-05-17'>
-                May 17, 2020
+              <time class="published" datetime='2020-04-19'>
+                April 19, 2020
               </time>
             </header>
             
@@ -754,12 +682,6 @@ if (!doNotTrack) {
         
       </div>
 
-      
-        <a href=
-          
-            /blog/
-          
-        class="button">View more posts</a>
       
     </div>
   </section>
@@ -784,73 +706,7 @@ if (!doNotTrack) {
           <article>
             <header>
               
-                <a href="https://www.vcrocs.info/categories/powershell/">powershell</a>
-                <span style="float:right;">10</span>
-              
-            </header>
-          </article>
-        </p>
-        
-        <p>
-          <article>
-            <header>
-              
-                <a href="https://www.vcrocs.info/categories/vra/">vra</a>
-                <span style="float:right;">8</span>
-              
-            </header>
-          </article>
-        </p>
-        
-        <p>
-          <article>
-            <header>
-              
-                <a href="https://www.vcrocs.info/categories/nsx/">nsx</a>
-                <span style="float:right;">4</span>
-              
-            </header>
-          </article>
-        </p>
-        
-        <p>
-          <article>
-            <header>
-              
-                <a href="https://www.vcrocs.info/categories/powercli/">powercli</a>
-                <span style="float:right;">4</span>
-              
-            </header>
-          </article>
-        </p>
-        
-        <p>
-          <article>
-            <header>
-              
-                <a href="https://www.vcrocs.info/categories/coffee-talk/">coffee-talk</a>
-                <span style="float:right;">3</span>
-              
-            </header>
-          </article>
-        </p>
-        
-        <p>
-          <article>
-            <header>
-              
-                <a href="https://www.vcrocs.info/categories/esxi/">esxi</a>
-                <span style="float:right;">2</span>
-              
-            </header>
-          </article>
-        </p>
-        
-        <p>
-          <article>
-            <header>
-              
-                <a href="https://www.vcrocs.info/categories/dan-grove/">dan-grove</a>
+                <a href="https://www.vcrocs.info/categories/clay-thrower/">clay-thrower</a>
                 <span style="float:right;">1</span>
               
             </header>
@@ -861,7 +717,7 @@ if (!doNotTrack) {
           <article>
             <header>
               
-                <a href="https://www.vcrocs.info/categories/home-lab/">home-lab</a>
+                <a href="https://www.vcrocs.info/categories/fun/">fun</a>
                 <span style="float:right;">1</span>
               
             </header>
@@ -883,73 +739,7 @@ if (!doNotTrack) {
           <article>
             <header>
               
-                <a href="https://www.vcrocs.info/categories/infoblox/">infoblox</a>
-                <span style="float:right;">1</span>
-              
-            </header>
-          </article>
-        </p>
-        
-        <p>
-          <article>
-            <header>
-              
-                <a href="https://www.vcrocs.info/categories/log-insight/">log-insight</a>
-                <span style="float:right;">1</span>
-              
-            </header>
-          </article>
-        </p>
-        
-        <p>
-          <article>
-            <header>
-              
-                <a href="https://www.vcrocs.info/categories/podcast/">podcast</a>
-                <span style="float:right;">1</span>
-              
-            </header>
-          </article>
-        </p>
-        
-        <p>
-          <article>
-            <header>
-              
-                <a href="https://www.vcrocs.info/categories/raspberry-pi/">raspberry-pi</a>
-                <span style="float:right;">1</span>
-              
-            </header>
-          </article>
-        </p>
-        
-        <p>
-          <article>
-            <header>
-              
-                <a href="https://www.vcrocs.info/categories/rvtools/">rvtools</a>
-                <span style="float:right;">1</span>
-              
-            </header>
-          </article>
-        </p>
-        
-        <p>
-          <article>
-            <header>
-              
-                <a href="https://www.vcrocs.info/categories/vrealize-operations/">vrealize-operations</a>
-                <span style="float:right;">1</span>
-              
-            </header>
-          </article>
-        </p>
-        
-        <p>
-          <article>
-            <header>
-              
-                <a href="https://www.vcrocs.info/categories/wfh/">wfh</a>
+                <a href="https://www.vcrocs.info/categories/pictures/">pictures</a>
                 <span style="float:right;">1</span>
               
             </header>
