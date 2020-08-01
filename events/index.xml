@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Events on Palmyra International Shotgun Range</title>
-    <link>https://www.vcrocs.info/events/</link>
+    <link>/events/</link>
     <description>Recent content in Events on Palmyra International Shotgun Range</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 01 Aug 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://www.vcrocs.info/events/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/events/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Kitchen/Baths</title>
-      <link>https://www.vcrocs.info/events/shoot/</link>
+      <link>/events/shoot/</link>
       <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://www.vcrocs.info/events/shoot/</guid>
+      <guid>/events/shoot/</guid>
       <description>Shoot: Dog Days of Summer    20140618 190320
       20140618 190342
       20140618 190410
