@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Palmyra International Shotgun Range</title>
+    <link>https://www.vcrocs.info/categories/</link>
+    <description>Recent content in Categories on Palmyra International Shotgun Range</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 01 Aug 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://www.vcrocs.info/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Event</title>
+      <link>https://www.vcrocs.info/categories/event/</link>
+      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.vcrocs.info/categories/event/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fun</title>
+      <link>https://www.vcrocs.info/categories/fun/</link>
+      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.vcrocs.info/categories/fun/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pictures</title>
+      <link>https://www.vcrocs.info/categories/pictures/</link>
+      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.vcrocs.info/categories/pictures/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Clay Thrower</title>
+      <link>https://www.vcrocs.info/categories/clay-thrower/</link>
+      <pubDate>Sun, 19 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.vcrocs.info/categories/clay-thrower/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
