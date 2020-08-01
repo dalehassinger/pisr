@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://dalehassinger.github.io/pisr/about/</loc>
+    <lastmod>2020-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://dalehassinger.github.io/pisr/blog/</loc>
     <lastmod>2020-08-01T00:00:00+00:00</lastmod>
   </url>
@@ -40,16 +45,6 @@
   <url>
     <loc>https://dalehassinger.github.io/pisr/blog/hugo/</loc>
     <lastmod>2020-04-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://dalehassinger.github.io/pisr/about/</loc>
-    <lastmod>2020-04-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://dalehassinger.github.io/pisr/about/about/</loc>
-    <lastmod>2020-04-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
