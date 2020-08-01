@@ -2,48 +2,48 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Palmyra International Shotgun Range</title>
-    <link>/categories/</link>
+    <link>pisr/categories/</link>
     <description>Recent content in Categories on Palmyra International Shotgun Range</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 01 Aug 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="pisr/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Event</title>
-      <link>/categories/event/</link>
+      <link>pisr/categories/event/</link>
       <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>/categories/event/</guid>
+      <guid>pisr/categories/event/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Fun</title>
-      <link>/categories/fun/</link>
+      <link>pisr/categories/fun/</link>
       <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>/categories/fun/</guid>
+      <guid>pisr/categories/fun/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Pictures</title>
-      <link>/categories/pictures/</link>
+      <link>pisr/categories/pictures/</link>
       <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>/categories/pictures/</guid>
+      <guid>pisr/categories/pictures/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Clay Thrower</title>
-      <link>/categories/clay-thrower/</link>
+      <link>pisr/categories/clay-thrower/</link>
       <pubDate>Sun, 19 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>/categories/clay-thrower/</guid>
+      <guid>pisr/categories/clay-thrower/</guid>
       <description></description>
     </item>
     
