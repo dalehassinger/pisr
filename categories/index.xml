@@ -2,48 +2,48 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on www.vCrocs.info</title>
-    <link>https://www.vcrocs.info/categories/</link>
+    <link>https://dalehassinger.github.io/pisr/categories/</link>
     <description>Recent content in Categories on www.vCrocs.info</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 01 Aug 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://www.vcrocs.info/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://dalehassinger.github.io/pisr/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Fun</title>
-      <link>https://www.vcrocs.info/categories/fun/</link>
+      <link>https://dalehassinger.github.io/pisr/categories/fun/</link>
       <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://www.vcrocs.info/categories/fun/</guid>
+      <guid>https://dalehassinger.github.io/pisr/categories/fun/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Pictures</title>
-      <link>https://www.vcrocs.info/categories/pictures/</link>
+      <link>https://dalehassinger.github.io/pisr/categories/pictures/</link>
       <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://www.vcrocs.info/categories/pictures/</guid>
+      <guid>https://dalehassinger.github.io/pisr/categories/pictures/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hugo</title>
-      <link>https://www.vcrocs.info/categories/hugo/</link>
+      <link>https://dalehassinger.github.io/pisr/categories/hugo/</link>
       <pubDate>Sun, 26 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://www.vcrocs.info/categories/hugo/</guid>
+      <guid>https://dalehassinger.github.io/pisr/categories/hugo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Clay Thrower</title>
-      <link>https://www.vcrocs.info/categories/clay-thrower/</link>
+      <link>https://dalehassinger.github.io/pisr/categories/clay-thrower/</link>
       <pubDate>Sun, 19 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://www.vcrocs.info/categories/clay-thrower/</guid>
+      <guid>https://dalehassinger.github.io/pisr/categories/clay-thrower/</guid>
       <description></description>
     </item>
     
