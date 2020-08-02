@@ -12,12 +12,36 @@
     
     
     <item>
+      <title>Dog Days of Summer</title>
+      <link>https://dalehassinger.github.io/pisr/events/dogdays/</link>
+      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://dalehassinger.github.io/pisr/events/dogdays/</guid>
+      <description>The Dog Days of Summer Shootout is a 150 Target International Trap Match/ PA Junior Olympic Championships.   Lunch is included Saturday and Sunday
+  Cost $125.00 Cash or Check.
+  PA Junior Olympics Championships. (USA Shooting Sectioned Event)
+  The first 125 Targets will be used to determine the PA USA Shooting Junior Olympic Championships. Out of state shooters are encouraged to attend. They will not be eligible for State Medals but Out of State Awards will be given.</description>
+    </item>
+    
+    <item>
       <title>Thursday Nights</title>
       <link>https://dalehassinger.github.io/pisr/blog/thursdays/</link>
       <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
       
       <guid>https://dalehassinger.github.io/pisr/blog/thursdays/</guid>
       <description>Every Thursday night you can come to the Shotgun Range and Pratice your Bunker Trap skills or shoot Bunker for the first time. Always a good time at the range&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Palmyra International Bunker Inaugural Open</title>
+      <link>https://dalehassinger.github.io/pisr/events/inaugural/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://dalehassinger.github.io/pisr/events/inaugural/</guid>
+      <description>Palmyra International Bunker Inaugural Open  150 Target International Trap Match -Practice on Friday June 26 from 10:00 till 5:00 -Lunch is included Saturday and Sunday -Cost $125.00 Cash or Check. -Bring the Family our range is 12 minuets from Hershey Park:-)  Classes
+ A-B-C-D  Category
+ Men - Women - Junior- Senior  Course of fire:
+ 75 Target on June 27 Saturday with 50 Target Junior Final 75 Targets on June 28 Sunday with 50 Target Open Final Juniors are able to shoot in both finals if they shoot the scores.</description>
     </item>
     
     <item>
@@ -28,42 +52,6 @@
       <guid>https://dalehassinger.github.io/pisr/blog/clay-thrower/</guid>
       <description>Raspberry PI Powered Clay Thrower Link to my Raspberry PI powered Clay Thrower. The first project I ever did with a PI. My first project using Python and PHP.
   </description>
-    </item>
-    
-    <item>
-      <title>Fancy App 1</title>
-      <link>https://dalehassinger.github.io/pisr/itemized/item1/</link>
-      <pubDate>Thu, 22 Jun 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://dalehassinger.github.io/pisr/itemized/item1/</guid>
-      <description>App 1 </description>
-    </item>
-    
-    <item>
-      <title>Fancy App 2</title>
-      <link>https://dalehassinger.github.io/pisr/itemized/item2/</link>
-      <pubDate>Thu, 22 Jun 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://dalehassinger.github.io/pisr/itemized/item2/</guid>
-      <description>App 2 </description>
-    </item>
-    
-    <item>
-      <title>Fancy App 3</title>
-      <link>https://dalehassinger.github.io/pisr/itemized/item3/</link>
-      <pubDate>Thu, 22 Jun 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://dalehassinger.github.io/pisr/itemized/item3/</guid>
-      <description>App 3 </description>
-    </item>
-    
-    <item>
-      <title>Fancy App 4</title>
-      <link>https://dalehassinger.github.io/pisr/itemized/item4/</link>
-      <pubDate>Thu, 22 Jun 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://dalehassinger.github.io/pisr/itemized/item4/</guid>
-      <description>App 4 </description>
     </item>
     
   </channel>
